@@ -26,3 +26,6 @@ These are the schematic (`.sch`) and display files (`.dpl`) to produce the plots
  
 - current_integrator_second:
   - Slides 19, 20 and 21. Adds a relay connected to a pulse source to short the capacitor after one second. Adds a second current source to produce the second pulse. You can alter the size of the pulses from the two current source parameters.
+ 
+- voltage differentiator:
+  - From the backup
