@@ -1,0 +1,32 @@
+<Qucs Schematic 0.0.19>
+<Properties>
+  <View=0,0,1145,800,1,0,0>
+  <Grid=10,10,0>
+  <DataSet=voltage_integrator.dat>
+  <DataDisplay=voltage_integrator.sch>
+  <OpenDisplay=1>
+  <Script=voltage_integrator.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 440 409 616 329 3 #c0c0c0 1 00 1 1 0.5 5 0 -6 2 6 0 -6 2 6 315 0 225 "times [s]" "" "">
+	<"Vout.Vt" #ff0000 3 3 0 0 0>
+	<"Vin.Vt" #0000ff 3 3 0 0 1>
+  </Rect>
+  <Rect 180 690 240 160 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "Vin" "Vout" "">
+	<"Vout.Vt@Vin.Vt" #0000ff 3 3 0 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>

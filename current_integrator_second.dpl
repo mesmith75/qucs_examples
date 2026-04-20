@@ -1,0 +1,32 @@
+<Qucs Schematic 0.0.19>
+<Properties>
+  <View=0,0,1321,927,1,0,60>
+  <Grid=10,10,0>
+  <DataSet=current_integrator_second.dat>
+  <DataDisplay=current_integrator_second.sch>
+  <OpenDisplay=1>
+  <Script=current_integrator_second.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 630 446 562 296 3 #c0c0c0 1 00 1 0 0.5 4 0 -15 3 15 0 -1e-08 4e-09 1e-08 315 0 225 "times [s]" "" "">
+	<"Vout.Vt" #ff0000 3 3 0 0 0>
+	<"Iin1.It" #0000ff 3 3 0 0 1>
+  </Rect>
+  <Rect 240 826 562 296 3 #c0c0c0 1 00 1 0 0.5 4 0 -15 3 15 0 -1e-08 4e-09 1e-08 315 0 225 "times [s]" "" "">
+	<"Vout.Vt" #ff0000 3 3 0 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>
