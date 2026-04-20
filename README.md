@@ -1,5 +1,9 @@
 # qucs examples
 
+`qucs` stands for Quite Universal Circuit Simulator. It is in the Ubuntu repository and available for download from the website. I find it easy to use for these simple examples.
+
+# Examples
+
 These are the schematic (`.sch`) and display files (`.dpl`) to produce the plots of the circuit response in the lecture. You can download them and see how the responses of the circuits change with the parameters of the various components.
 
  - amplifier:
